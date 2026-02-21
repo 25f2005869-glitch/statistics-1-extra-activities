@@ -1,63 +1,41 @@
-#  Basic Statistics Projects
-Extra activities, practice problems, and mini projects for Statistics 1 course.
+# Basic Statistics Projects
 
-This repository contains extra activities, practice problems, and mini projects completed as part of the Statistics 1 course.
-
-## Contents
-- Descriptive Statistics
-- Mean, Median, Mode
-- Variance & Standard Deviation
-- Probability Basics
-- Data Visualization
-
-## Tools Used
-- Excel
-- Python (NumPy, Matplotlib)
-
-## Purpose
-To strengthen statistical fundamentals through hands-on practice and analysis.
-# Statistics 1 - Extra Activities
-
-This repository contains extra activities, practice problems, and mini projects completed as part of the Statistics 1 course.
+This repository contains practice problems, data analysis exercises, and mini projects focused on fundamental statistical concepts and visualization techniques.
 
 ---
 
-## Activity 3
+## Purpose
 
-### Files Included
-- ACTIVITY3.xlsx → Excel analysis file
-- Statistics_Extra_Activities_Presentation.pptx → PowerPoint presentation
+To strengthen statistical fundamentals through hands-on data analysis and visualization.
 
 ---
 
 ## Topics Covered
-- Descriptive Statistics
-- Mean, Median, Mode
-- Data Visualization
-- Charts & Graphs
+
+- Descriptive Statistics  
+- Mean, Median, Mode  
+- Variance & Standard Deviation  
+- Probability Basics  
+- Data Visualization  
+- Charts & Graphs  
 
 ---
 
 ## Tools Used
-- Microsoft Excel
-- Microsoft PowerPoint
+
+- Microsoft Excel  
+- Microsoft PowerPoint  
 
 ---
 
-## Activity 4
+## Activities Included
 
-### Files Included
-- STATISTICS - 1 Activity - 4.xlsx — Excel analysis file  
-- statistics_activity_4_chart.png — Distribution chart  
-- Statistics_Extra_Activities_Presentation.pptx — PowerPoint presentation  
+- Statistical data analysis using Excel  
+- Distribution analysis  
+- Visualization and chart creation  
+- Presentation of findings  
 
-### Topics Covered
-- Experimental Distribution  
-- Theoretical Distribution  
-- Comparative Analysis  
-- Data Visualization
-- Experimental Distribution
-- Theoretical Distribution
+---
 
 ## Purpose
 To practice statistical fundamentals through hands-on data analysis and visualization.

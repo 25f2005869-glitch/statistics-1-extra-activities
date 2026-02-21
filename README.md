@@ -1,4 +1,4 @@
-# statistics 1-extra-activities
+#  Basic Statistics Projects
 Extra activities, practice problems, and mini projects for Statistics 1 course.
 
 This repository contains extra activities, practice problems, and mini projects completed as part of the Statistics 1 course.
